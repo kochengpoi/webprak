@@ -29,7 +29,7 @@
 				<b >Menuju tak terbatas, dan melampauinya..!</b> 
 			</h2>
 			<br>
-			<a href="" class="btn btn-info"><h1>Selesaikan misi..!!</h1></a>
+			<a href="" class="btn btn-success"><h1>Selesaikan misi..!!</h1></a>
 		</div>
 	</header>
 	<div class="container">
