@@ -26,7 +26,7 @@
 		</nav>
 		<div class="kotak" style="font-family: 'Righteous', cursive;" >
 			<h2>			
-				<b >Menuju tak terbatas, dan melampauinya..!</b> 
+				<b >Getting Started..!</b> 
 			</h2>
 			<br>
 			<a href="" class="btn btn-success"><h1>Selesaikan misi..!!</h1></a>
